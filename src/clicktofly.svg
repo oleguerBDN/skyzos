@@ -1,0 +1,20 @@
+<svg width="582" height="582" xmlns="http://www.w3.org/2000/svg" fill="none">
+ <defs>
+  <linearGradient y2="1" x2="0.5" y1="0" x1="0.5" id="paint0_linear">
+   <stop stop-color="#7BCBD4"/>
+   <stop stop-color="#29C6B7" offset="1"/>
+  </linearGradient>
+  <filter id="svg_7_blur">
+   <feGaussianBlur stdDeviation="0.4" in="SourceGraphic"/>
+  </filter>
+ </defs>
+ <g>
+  <title>Layer 1</title>
+  <rect x="2" y="0" id="svg_1" fill="url(#paint0_linear)" rx="291" height="582" width="582"/>
+  <g id="svg_8">
+   <text font-weight="bold" filter="url(#svg_7_blur)" xml:space="preserve" text-anchor="start" font-family="'Azeret Mono'" font-size="70" stroke-width="0" id="svg_4" y="242" x="178.5" fill="#000000">CLICK</text>
+   <text font-weight="bold" filter="url(#svg_7_blur)" xml:space="preserve" text-anchor="start" font-family="'Azeret Mono'" font-size="70" stroke-width="0" id="svg_5" y="317" x="246.75" fill="#000000">TO</text>
+   <text filter="url(#svg_7_blur)" font-weight="bold" xml:space="preserve" text-anchor="start" font-family="'Azeret Mono'" font-size="70" stroke-width="0" id="svg_7" y="390" x="224" fill="#000000">FLY</text>
+  </g>
+ </g>
+</svg>
